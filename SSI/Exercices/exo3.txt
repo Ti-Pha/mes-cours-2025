@@ -1,0 +1,1 @@
+Ecrire un algorithme qui permet de resoudre un systeme d'equation a 2 inconnus
